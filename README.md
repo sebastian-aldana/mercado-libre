@@ -21,4 +21,4 @@ Prueba tecnica desarrollador mercado libre.
 
   ```
   
-- ingresar al navegador a localhos:5000
+- ingresar al navegador a localhost:5000
